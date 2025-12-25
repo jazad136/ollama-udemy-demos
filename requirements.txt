@@ -40,8 +40,9 @@ mdurl==0.1.2
 mypy_extensions==1.1.0
 narwhals==2.9.0
 nest-asyncio==1.6.0
-numpy==1.26.4
+numpy==2.2.6
 ollama==0.6.0
+opencv-python==4.12.0.88
 packaging==23.2
 pandas==2.3.3
 parso==0.8.5
