@@ -1,3 +1,3 @@
-My work: find_sim_work_L21.py
-From the course: 20.py find_sim_work_L21.py
+My work: 22_find_in_long_work.py
+From the course: 22.py 22_find_in_long.py
 
