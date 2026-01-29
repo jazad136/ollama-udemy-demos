@@ -17,4 +17,4 @@ Repo maintained by Jonathan A. Saddler, Ph. D.
 - Spacy 3
 #### This project includes extras such as: 
 - Spyder Kernels 3.1.2 for working with code in Spyder 6
-- Ollama Python library 0.6 (ollama==0.6.0) for working with Ollama in Python
+- Ollama Python library 0.6 (ollama==0.6.1) for working with Ollama in Python
