@@ -13,7 +13,8 @@ Repo maintained by Jonathan A. Saddler, Ph. D.
 - Ollama 0.13
 - Llama 3.3
 - Llava 7 billion parameters (7b)
-
+- Langchain 1.2
+- Spacy 3
 #### This project includes extras such as: 
 - Spyder Kernels 3.1.2 for working with code in Spyder 6
 - Ollama Python library 0.6 (ollama==0.6.0) for working with Ollama in Python
