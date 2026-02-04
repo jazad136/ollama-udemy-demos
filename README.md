@@ -15,6 +15,7 @@ Repo maintained by Jonathan A. Saddler, Ph. D.
 - Llava 7 billion parameters (7b)
 - Langchain 1.2
 - Spacy 3
+- Crewai 1.9
 #### This project includes extras such as: 
 - Spyder Kernels 3.1.2 for working with code in Spyder 6
 - Ollama Python library 0.6 (ollama==0.6.1) for working with Ollama in Python
