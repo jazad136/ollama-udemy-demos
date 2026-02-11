@@ -23,3 +23,5 @@ Repo maintained by Jonathan A. Saddler, Ph. D.
 #### This project includes extras such as: 
 - Spyder Kernels 3.1.2 for working with code in Spyder 6
 - Ollama Python library 0.6 (ollama==0.6.1) for working with Ollama in Python
+
+#### Note for installation: By the time we got to requirements5.txt we had to start installing models that broke on Intel Macbooks but that works on Windows 11 WSL2 Fedora. 
