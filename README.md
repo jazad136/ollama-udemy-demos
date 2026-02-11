@@ -16,6 +16,10 @@ Repo maintained by Jonathan A. Saddler, Ph. D.
 - Langchain 1.2
 - Spacy 3
 - Crewai 1.9
+- PyTorch 2.10
+- Transformers 5.1
+- LiquidAI LFM version 2.5
+
 #### This project includes extras such as: 
 - Spyder Kernels 3.1.2 for working with code in Spyder 6
 - Ollama Python library 0.6 (ollama==0.6.1) for working with Ollama in Python
